@@ -16,8 +16,10 @@ var(swiss$Examination)
 sd(swiss$Examination)
 
 model1 <- lm(Infant.Mortality~Agriculture, data = swiss)
+plot(model1)
 ggpairs(model1)
 model2 <- lm(Infant.Mortality~Examination, data = swiss)
+plot(model2)
 ggpairs(model2)
 
 summary(model1)$r.squared
