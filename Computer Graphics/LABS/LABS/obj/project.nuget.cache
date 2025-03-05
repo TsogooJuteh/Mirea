@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ll1J4hll65yrcJghmh036Th8Ti4w7yMEmrn4x20HjsJjpnB9Sz5yRqD9HDV/mc/WvouBUX7ESRjf2UE3ZkZH7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\LABS\\LABS\\LABS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\opentk\\4.9.3\\opentk.4.9.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\opentk.audio.openal\\4.9.3\\opentk.audio.openal.4.9.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\opentk.compute\\4.9.3\\opentk.compute.4.9.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\opentk.core\\4.9.3\\opentk.core.4.9.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\opentk.graphics\\4.9.3\\opentk.graphics.4.9.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\opentk.input\\4.9.3\\opentk.input.4.9.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\opentk.mathematics\\4.9.3\\opentk.mathematics.4.9.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\opentk.redist.glfw\\3.3.8.39\\opentk.redist.glfw.3.3.8.39.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\opentk.windowing.common\\4.9.3\\opentk.windowing.common.4.9.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\opentk.windowing.desktop\\4.9.3\\opentk.windowing.desktop.4.9.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.9.3\\opentk.windowing.graphicslibraryframework.4.9.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

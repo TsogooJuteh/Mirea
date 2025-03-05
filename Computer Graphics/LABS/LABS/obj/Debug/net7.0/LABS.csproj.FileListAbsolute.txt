@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\LABS\LABS\bin\Debug\net7.0\LABS.exe
+C:\Users\Acer\source\repos\LABS\LABS\bin\Debug\net7.0\LABS.deps.json
+C:\Users\Acer\source\repos\LABS\LABS\bin\Debug\net7.0\LABS.runtimeconfig.json
+C:\Users\Acer\source\repos\LABS\LABS\bin\Debug\net7.0\LABS.dll
+C:\Users\Acer\source\repos\LABS\LABS\bin\Debug\net7.0\LABS.pdb
+C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0\LABS.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0\LABS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0\LABS.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0\LABS.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0\LABS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0\LABS.dll
+C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0\refint\LABS.dll
+C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0\LABS.pdb
+C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0\LABS.genruntimeconfig.cache
+C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0\ref\LABS.dll
