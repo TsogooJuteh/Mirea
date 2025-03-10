@@ -12,10 +12,13 @@ namespace TrapezoidExample
             : base(gameWindowSettings, nativeWindowSettings)
         {
         }
-
         protected override void OnLoad()
         {
             base.OnLoad();
+
+            Console.WriteLine(GL.GetString(StringName.Renderer));
+            Console.WriteLine(GL.GetString(StringName.Vendor));
+            Console.WriteLine(GL.GetString(StringName.Version));
 
             //clear color
             GL.ClearColor(1f, 1f, 1f, 1f);
@@ -26,16 +29,14 @@ namespace TrapezoidExample
             GL.Enable(EnableCap.Light0);
 
             GL.Enable(EnableCap.ColorMaterial);
-            GL.ColorMaterial(MaterialFace.FrontAndBack, ColorMaterialParameter.Diffuse);
 
             //directional light parallel to the vector {0,0,0} to {1,1,1}.
-            float[] lightPosition = { -1f, -1f, -1f, 0f }; // Directional light (w=0)
+            //{-1,-1,-1,0} - can see the color, {1,1,1,0} - color barely visible
+            float[] lightPosition = { 1f, 1f, 1f, 0f }; // Directional light (w=0)
             float[] lightAmbient = { 0.2f, 0.2f, 0.2f, 1f };
-            float[] lightDiffuse = { 1.0f, 1.0f, 1.0f, 1f };
 
             GL.Light(LightName.Light0, LightParameter.Position, lightPosition);
             GL.Light(LightName.Light0, LightParameter.Ambient, lightAmbient);
-            GL.Light(LightName.Light0, LightParameter.Diffuse, lightDiffuse);
         }
 
         protected override void OnResize(ResizeEventArgs e)
@@ -71,8 +72,9 @@ namespace TrapezoidExample
             GL.MatrixMode(MatrixMode.Modelview);
             GL.LoadMatrix(ref modelview);
 
-            //axes
             GL.Disable(EnableCap.Lighting);
+
+            //axes
             GL.Begin(PrimitiveType.Lines);
             //X-axis
             GL.Color3(0.0, 0.0, 0.0);
@@ -100,7 +102,7 @@ namespace TrapezoidExample
             GL.Vertex3(0f, 0f, 0f);
 
             // bottom-right vertex (green)
-            GL.Normal3(0f, 0f, 1f);//normal
+            GL.Normal3(0f, 0f, 1f);//normal     
             GL.Color3(0f, 1f, 0f);
             GL.Vertex3(8f, 0f, 0f);
 
@@ -149,7 +151,7 @@ namespace TrapezoidExample
             //GL.End();
             //GL.Enable(EnableCap.Lighting);
 
-            ////outline
+            ////parallelogram outline
             //GL.Disable(EnableCap.Lighting);
             //GL.LineWidth(2.0f);
             //GL.Begin(PrimitiveType.LineLoop);

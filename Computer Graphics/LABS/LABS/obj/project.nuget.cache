@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ll1J4hll65yrcJghmh036Th8Ti4w7yMEmrn4x20HjsJjpnB9Sz5yRqD9HDV/mc/WvouBUX7ESRjf2UE3ZkZH7g==",
+  "dgSpecHash": "NSTPqTbp18Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\LABS\\LABS\\LABS.csproj",
+  "projectFilePath": "D:\\New folder\\Mirea\\Computer Graphics\\LABS\\LABS\\LABS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\opentk\\4.9.3\\opentk.4.9.3.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\opentk.audio.openal\\4.9.3\\opentk.audio.openal.4.9.3.nupkg.sha512",

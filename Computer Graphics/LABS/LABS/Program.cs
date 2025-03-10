@@ -13,7 +13,7 @@ namespace TrapezoidExample
             var nativeSettings = new NativeWindowSettings
             {
                 Size = new Vector2i(1000, 1000),
-                Title = "Trapezoid with Lighting",
+                Title = "parallelogram",
                 APIVersion = new Version(3, 2),
                 Profile = ContextProfile.Compatability
             };

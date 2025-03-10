@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\LABS\\LABS\\LABS.csproj",
+      "projectUniqueName": "D:\\New folder\\Mirea\\Computer Graphics\\LABS\\LABS\\LABS.csproj",
       "projectName": "LABS",
-      "projectPath": "C:\\Users\\Acer\\source\\repos\\LABS\\LABS\\LABS.csproj",
+      "projectPath": "D:\\New folder\\Mirea\\Computer Graphics\\LABS\\LABS\\LABS.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\source\\repos\\LABS\\LABS\\obj\\",
+      "outputPath": "D:\\New folder\\Mirea\\Computer Graphics\\LABS\\LABS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -466,7 +466,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net7.0-windows7.0": {
@@ -496,7 +502,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

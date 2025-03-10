@@ -30,4 +30,38 @@ C:\Users\Acer\source\repos\LABS\LABS\bin\Debug\net7.0-windows\runtimes\win-x64\n
 C:\Users\Acer\source\repos\LABS\LABS\bin\Debug\net7.0-windows\runtimes\win-x86\native\glfw3.dll
 C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0-windows\LABS.GLFW.Strings.resources
 C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0-windows\LABS.csproj.GenerateResource.cache
-C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0-windows\LABS.csproj.CopyComplete
+C:\Users\Acer\source\repos\LABS\LABS\obj\Debug\net7.0-windows\LABS.csproj.Up2Date
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\LABS.exe
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\LABS.deps.json
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\LABS.runtimeconfig.json
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\LABS.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\LABS.pdb
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\OpenTK.Audio.OpenAL.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\OpenTK.Compute.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\OpenTK.Core.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\OpenTK.Graphics.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\OpenTK.Input.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\OpenTK.Mathematics.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\OpenTK.Windowing.Common.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\OpenTK.Windowing.Desktop.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libglfw-wayland.so.3.3
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libglfw.3.dylib
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\runtimes\win-x64\native\glfw3.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\bin\Debug\net7.0-windows\runtimes\win-x86\native\glfw3.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.csproj.AssemblyReference.cache
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.GLFW.Strings.resources
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.csproj.GenerateResource.cache
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.AssemblyInfoInputs.cache
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.AssemblyInfo.cs
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.csproj.CoreCompileInputs.cache
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.sourcelink.json
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.csproj.Up2Date
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\refint\LABS.dll
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.pdb
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\LABS.genruntimeconfig.cache
+D:\New folder\Mirea\Computer Graphics\LABS\LABS\obj\Debug\net7.0-windows\ref\LABS.dll
