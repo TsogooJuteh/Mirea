@@ -11,7 +11,7 @@ n = 5 + V % 20
 p = 0.2 + 0.003 * V
 lamda = 1 + ((-1) ** V) * (V * 0.003)
 
-seed = 10+V
+seed = 10 + V
 rng = np.random.default_rng(seed=seed)
 
 
@@ -101,10 +101,37 @@ def task(X_distribution, name_distribution):
       plt.plot([counts[0][i], counts[0][i+1]], [cum_freq[i], cum_freq[i]], color='b', linestyle='-', linewidth=2)
     plt.grid(True)
     plt.show()
+    
+    x_min = 0
+    x_max = X.max() + 1
+    x_vals = np.arange(x_min, x_max + 0.1, 0.1)
+    if name_distribution == 'binomial':
+        pmf_vals = []
+        for xv in x_vals:
+            k_int = int(round(xv))
+            if 0 <= k_int <= n:
+                val = math.comb(n, k_int) * (p**k_int) * ((1 - p)**(n - k_int))
+            else:
+                val = 0
+            pmf_vals.append(val)
+
+    else:  # geometric
+        pmf_vals = []
+        for xv in x_vals:
+            k_int = int(round(xv))
+            if k_int >= 1:
+                val = p * ((1 - p)**(k_int - 1))
+            else:
+                val = 0
+            pmf_vals.append(val)
+
+    plt.plot(x_vals, pmf_vals, 'g-', label='PMF (step=0.1)')
+    plt.legend()
+    plt.show()
+    
   if name_distribution == 'poisson':
     fig, ax1 = plt.subplots(figsize=(8, 6))
     
-    #ax1.plot(counts[0], relative_freq, marker='o', linestyle='-', color='b', label='Relative Frequency')
     ax1.plot(counts[0], theo_freq, marker='o', linestyle='-', color='r', label='Theoretical Frequency')
     ax1.set_xlabel('Value')
     ax1.set_ylabel('Frequency (Line)')
@@ -115,6 +142,28 @@ def task(X_distribution, name_distribution):
     ax2.hist(X_distribution, bins='sturges', edgecolor='black', alpha=0.5, label='Histogram')
     ax2.set_ylabel('Count (Histogram)')
     ax2.legend(loc='upper right')
+    plt.show()
+    
+    x_min = 0
+    x_max = X.max() + 2
+    x_vals = np.arange(x_min, x_max + 0.1, 0.1)
+
+    pmf_vals = []
+    for xv in x_vals:
+        k_int = int(round(xv))
+        if k_int >= 0:
+            val = (lamda**k_int) * np.exp(-lamda) / math.factorial(k_int)
+        else:
+            val = 0
+        pmf_vals.append(val)
+
+    plt.figure(figsize=(8, 6))
+    plt.plot(x_vals, pmf_vals, 'r-', label='Poisson PMF (step=0.1)')
+    plt.title("Poisson PMF with step=0.1")
+    plt.xlabel("Value")
+    plt.ylabel("PMF")
+    plt.grid(True)
+    plt.legend()
     plt.show()
     
     plt.figure(figsize = (8,6))
