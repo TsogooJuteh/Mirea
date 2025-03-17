@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\New folder\\Mirea\\Computer Graphics\\lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|d:\\new folder\\mirea\\computer graphics\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|d:\\new folder\\mirea\\computer graphics\\lab2\\lab2\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|solutionrelative:lab2\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|d:\\new folder\\mirea\\computer graphics\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Engine.cs",
               "DocumentMoniker": "D:\\New folder\\Mirea\\Computer Graphics\\lab2\\lab2\\Engine.cs",
               "RelativeDocumentMoniker": "lab2\\Engine.cs",
               "ToolTip": "D:\\New folder\\Mirea\\Computer Graphics\\lab2\\lab2\\Engine.cs",
               "RelativeToolTip": "lab2\\Engine.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAuwK4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T20:00:22.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\New folder\\Mirea\\Computer Graphics\\lab2\\lab2\\Program.cs",
               "RelativeDocumentMoniker": "lab2\\Program.cs",
@@ -43,8 +43,7 @@
               "RelativeToolTip": "lab2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T19:54:23.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T19:54:23.432Z"
             }
           ]
         }
