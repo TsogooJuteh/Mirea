@@ -14,11 +14,12 @@ lamda = 1 + ((-1) ** V) * (V * 0.003)
 seed = 10 + V
 rng = np.random.default_rng(seed=seed)
 
-print("200 случайных значений из распределения Пуассона с параметром ", f"lambda = {lamda: .5f}")
-x_poisson = rng.poisson(lamda, N)
-print(x_poisson)
-x_po_save = x_poisson.copy().reshape((20, 10))
+print("200 случайных значений из экспонентиального распределения с параметром ", f"lambda = {lamda: .5f}")
+x_exponential = rng.exponential(1/lamda, N)
+x_exponential.sort()
+print(x_exponential)
+x_po_save = x_exponential.copy().reshape((20, 10))
 df = pd.DataFrame(x_po_save)
-df.to_excel('poisson.xlsx')
+df.to_excel('exponential.xlsx')
 
-task(x_poisson, 'poisson')
+task(x_exponential, 'exponential')

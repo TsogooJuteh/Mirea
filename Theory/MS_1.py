@@ -18,6 +18,7 @@ print("200 случайных значений из биномиального �
 x_binom = rng.binomial(n, p, N)
 print(x_binom)
 x_bi_save = x_binom.copy().reshape((20, 10))
+x_bi_save.sort()
 df = pd.DataFrame(x_bi_save)
 df.to_excel('binomial.xlsx')
 

@@ -15,9 +15,10 @@ seed = 10 + V
 rng = np.random.default_rng(seed=seed)
 
 print("200 случайных значений из геометрического распределения с параметром ", f"p = {p: .5f}")
-x_geom = rng.geometric(p, N)
+x_geom = rng.geometric(p, N) - 1
 print(x_geom)
 X_geo_save = x_geom.copy().reshape((20, 10))
+X_geo_save.sort()
 df = pd.DataFrame(X_geo_save)
 df.to_excel('geometric.xlsx')
 
