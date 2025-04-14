@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|c:\\users\\acer\\source\\repos\\lab2\\lab2\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|solutionrelative:lab2\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|c:\\users\\acer\\source\\repos\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|c:\\users\\acer\\source\\repos\\lab2\\lab2\\forimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|solutionrelative:lab2\\forimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|c:\\users\\acer\\source\\repos\\lab2\\lab2\\image\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{00ABB8CF-A35E-40E5-9CD6-E32F5D14EB43}|lab2\\lab2.csproj|solutionrelative:lab2\\image\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "image.png",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\lab2\\image\\image.png",
+              "RelativeDocumentMoniker": "lab2\\image\\image.png",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\lab2\\image\\image.png",
+              "RelativeToolTip": "lab2\\image\\image.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-03T21:50:00.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\lab2\\Engine.cs",
+              "RelativeDocumentMoniker": "lab2\\Engine.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\lab2\\Engine.cs",
+              "RelativeToolTip": "lab2\\Engine.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAYwN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:00:22.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:54:23.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "forimages.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\lab2\\lab2\\forimages.cs",
+              "RelativeDocumentMoniker": "lab2\\forimages.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\lab2\\lab2\\forimages.cs",
+              "RelativeToolTip": "lab2\\forimages.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:01:02.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
